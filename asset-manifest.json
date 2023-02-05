@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feedback-ts-version/static/css/main.7a179433.css",
+    "main.js": "/feedback-ts-version/static/js/main.bff9351c.js",
+    "index.html": "/feedback-ts-version/index.html",
+    "main.7a179433.css.map": "/feedback-ts-version/static/css/main.7a179433.css.map",
+    "main.bff9351c.js.map": "/feedback-ts-version/static/js/main.bff9351c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a179433.css",
+    "static/js/main.bff9351c.js"
+  ]
+}
